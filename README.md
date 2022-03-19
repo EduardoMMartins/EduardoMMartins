@@ -1,6 +1,6 @@
 My name is Eduardo Martins, I'm 20yo and I'm from Brazil.
 
-I've a technical degree in Industrial Mechanic and I'm currently a Control and Automation Engineering student at UFSM.
+I have a technical degree in Industrial Mechanic and I'm currently a Control and Automation Engineering student at UFSM.
 
 In 2018 I served my technical degree internship at Thor Máquinas, a metallurgic enterprise at Santa Maria, Rio Grande do Sul. There I've worked in the PPCP (Programming, Planning and Controlling of the Production) department for 3 months.
 
