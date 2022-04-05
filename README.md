@@ -1,10 +1,25 @@
-My name is Eduardo Martins, I'm 20yo and I'm from Brazil.
+## Olá! Sou o Eduardo Martins, estudante de Engenharia de Controle e Automação na UFSM e pesquisador na área de Blockchain
+<div align="center">
+  <a href="https://github.com/EduardoMMartins">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMMartins&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMMartins&layout=compact&langs_count=7&theme=yeblu"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1508793992628084740/NSJVUCcb_400x400.jpg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/eduardomellomartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/e.mmartins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/emmartins12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/e.mmartins" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+  ![Snake animation](https://github.com/EduardoMMartins/EduardoMMartins)
+</div>
 
-I have a technical degree in Industrial Mechanic and I'm currently a Control and Automation Engineering student at UFSM.
-
-In 2018 I served my technical degree internship at Thor Máquinas, a metallurgic enterprise at Santa Maria, Rio Grande do Sul. There I've worked in the PPCP (Programming, Planning and Controlling of the Production) department for 3 months.
-
-Between 2019 and 2020 I was member of a Junior Enterprise at UFSM called Automatiza Júnior. There I've worked as a marketing advisor in 2019 and as a marketing director in 2020. Now I still helping the current member as a mentor but I am not officialy part of It anymore.
-
-Currently I'm working into a Blockchain research project at UFSM and learning about Web and Mobile development.
-
+  <!--https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white-->
