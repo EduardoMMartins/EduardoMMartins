@@ -1,5 +1,6 @@
 ## 🇧🇷 Olá! Sou o Eduardo Martins, estudante de Engenharia de Controle e Automação na UFSM e pesquisador na área de Blockchain.
-<!--## 🇺🇸-->
+## 🇺🇸 Hey there! My name is Eduardo Martins, I'm a Control and Automation Engineering student at Universidade Federal de Santa Maria (UFSM) and a Blockchain Reseacher.
+## 🇪🇸 Hola! Me llamo Eduardo Martins, yo soy estudiante Ingeniería de Control y Automación en la Universidade Federal de Santa Maria (UFSM) y encuestador en la area de Blockchain
 <div align="center">
   <a href="https://github.com/EduardoMMartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMMartins&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
@@ -10,7 +11,7 @@
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1508793992628084740/NSJVUCcb_400x400.jpg">
+  <!--<img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="">-->
 </div>
   
   ##
