@@ -1,6 +1,5 @@
 ## 🇧🇷 Olá! Sou o Eduardo Martins, estudante de Engenharia de Controle e Automação na UFSM e pesquisador na área de Blockchain.
 ## 🇺🇸 Hey there! My name is Eduardo Martins, I'm a Control and Automation Engineering student at Universidade Federal de Santa Maria (UFSM) and a Blockchain Reseacher.
-## 🇪🇸 Hola! Me llamo Eduardo Martins, yo soy estudiante Ingeniería de Control y Automación en la Universidade Federal de Santa Maria (UFSM) y encuestador en la area de Blockchain
 <div align="center">
   <a href="https://github.com/EduardoMMartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMMartins&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
