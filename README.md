@@ -1,9 +1,9 @@
 ## 🇧🇷 Olá! Sou o Eduardo Martins, estudante de Engenharia de Controle e Automação na UFSM e pesquisador na área de energia solar fotovoltaica.
-<div align="center">
-  <a href="https://github.com/EduardoMMartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMMartins&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMMartins&layout=compact&langs_count=7&theme=yeblu"/>
-</div>
+##<div align="center">
+  ##<a href="https://github.com/EduardoMMartins">
+  ##<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMMartins&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  ##<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMMartins&layout=compact&langs_count=7&theme=yeblu"/>
+##</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
